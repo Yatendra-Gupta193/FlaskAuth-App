@@ -56,7 +56,7 @@ python -m venv venv
 
 venv\Scripts\activate
 
-# 5️⃣ Install dependencies
+## 5️⃣ Install dependencies
 
 pip install flask flask_sqlalchemy bcrypt
 

@@ -73,3 +73,7 @@ This project is ready for deployment on platforms like:
 Render
 
 Vercel
+
+---
+
+Live Link : https://flask-auth-app-u4zz.onrender.com/
